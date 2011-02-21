@@ -3,7 +3,7 @@ package WWW::Live::Contacts::PhoneNumber;
 use strict;
 use warnings;
 
-our $VERSION = '1.0.0';
+our $VERSION = '1.0.1';
 
 sub new {
   my ( $proto, $type ) = @_;
@@ -100,7 +100,7 @@ WWW::Live::Contacts::PhoneNumber
 
 =head1 VERSION
 
-1.0.0
+1.0.1
 
 =head1 AUTHOR
 

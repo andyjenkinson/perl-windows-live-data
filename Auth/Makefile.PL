@@ -26,10 +26,6 @@ WriteMakefile(
 1;
 __END__
 
-=head1 VERSION
-
-1.0.0
-
 =head1 AUTHOR
 
 Andrew M. Jenkinson <jenkinson@cpan.org>
