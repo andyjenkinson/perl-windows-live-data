@@ -16,7 +16,7 @@ WriteMakefile(
                                   'Crypt::SSLeay'   => 0,
                                   'XML::Simple'     => 0,
                                   'Carp'            => 0,
-                                  'WWW::Live::Auth' => 1.0.0,
+                                  'WWW::Live::Auth' => '1.0.0',
                                  },
               'dist'          => { COMPRESS => 'gzip', SUFFIX => 'gz', },
               'LICENSE'       => 'lgpl',
@@ -24,10 +24,6 @@ WriteMakefile(
 
 1;
 __END__
-
-=head1 VERSION
-
-1.0.0
 
 =head1 AUTHOR
 
