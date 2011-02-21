@@ -3,6 +3,8 @@ package WWW::Live::Contacts::PhoneNumber;
 use strict;
 use warnings;
 
+our $VERSION = '1.0.0';
+
 sub new {
   my ( $proto, $type ) = @_;
   my $class = ref $proto || $proto;

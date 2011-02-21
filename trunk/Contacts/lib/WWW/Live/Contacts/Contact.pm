@@ -7,6 +7,8 @@ use WWW::Live::Contacts::Email;
 use WWW::Live::Contacts::PhoneNumber;
 use WWW::Live::Contacts::Address;
 
+our $VERSION = '1.0.0';
+
 sub new {
   my ( $proto, %args ) = @_;
   my $class = ref $proto || $proto;
