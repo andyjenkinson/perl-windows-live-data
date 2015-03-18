@@ -1,0 +1,1 @@
+This is a couple of Perl packages for use as libraries for applications wishing to access Microsoft's (deprecated) Live Data APIs. This includes its delegated authentication API and its Live Contacts API.
