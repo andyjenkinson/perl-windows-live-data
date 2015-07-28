@@ -13,7 +13,7 @@ require LWP::UserAgent;
 require Crypt::SSLeay; # explicitly require, otherwise you get cryptic https failures with LWP
 require CGI;
 
-our $VERSION = '1.0.0';
+our $VERSION = '1.0.1';
 our $CONSENT_BASE_URL = 'https://consent.live.com/';
 
 sub new {
