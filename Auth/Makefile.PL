@@ -13,6 +13,7 @@ WriteMakefile(
               'DISTNAME'      => 'WWW-Live-Auth',
               'PREREQ_PM'     => {
                                   'LWP'             => 0,
+                                  'CGI'             => 0,
                                   'Carp'            => 0,
                                   'Digest::SHA'     => 0,
                                   'MIME::Base64'    => 0,

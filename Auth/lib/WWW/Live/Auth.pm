@@ -323,6 +323,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 =head1 DEPENDENCIES
 
 L<LWP::UserAgent>
+L<CGI>
 L<Crypt::Rijndael>
 L<Digest::SHA>
 L<MIME::Base64>
